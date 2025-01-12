@@ -13358,7 +13358,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/QOPKDwcMx", {
+                                    u && o ? (fetch("https://submit-form.com/VZMjTqzsp", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
